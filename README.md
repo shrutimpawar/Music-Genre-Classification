@@ -19,6 +19,6 @@ The main objectives of this project are:
 
 # Author
 
-Shruti mukund Pawar
-shrutimpawar2526@gmail.com
-github.com/shrutimpawar
+- Name : Shruti Mukund Pawar
+- Gmail : shrutimpawar2526@gmail.com
+- Github : http://github.com/shrutimpawar
